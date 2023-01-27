@@ -139,3 +139,35 @@ ul {
 /* **************
     hero end 
    ************** */
+
+/* **************
+    logos start 
+   ************** */
+
+.logos {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 3.6rem 6rem;
+  margin: 15rem 16.5rem;
+  border-top: 1px solid gainsboro;
+  border-bottom: 1px solid gainsboro;
+}
+
+.logo,
+.logo img {
+  width: 5.5rem;
+  height: 3rem;
+}
+
+/* **************
+    logos end 
+   ************** */
+
+/* **************
+    collections start 
+   ************** */
+
+/* **************
+    collections end 
+   ************** */
